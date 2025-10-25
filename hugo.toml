@@ -1,3 +1,4 @@
+publishDir = "docs"
 baseURL = "https://sadiqrahmati.com/"
 languageCode = "en-us"
 title = "Sadiq Rahmati"

@@ -1,0 +1,47 @@
+baseURL = "https://sadiqrahmati.com/"
+languageCode = "en-us"
+title = "Sadiq Rahmati"
+theme = "typo"
+
+[taxonomies]
+tag = "tags"
+
+[params]
+homeIntroTitle = "Hi!"
+homeIntroContent = """
+Stories from when things didn’t work. Yet.
+"""
+
+homeCollectionTitle = "Stories"
+homeCollection = "posts"
+
+paginationSize = 20
+listSummaries = true
+listDateFormat = "2 Jan 2006"
+
+showFooter = true
+footerContent = "© 2025 Sadiq Rahmati · Made with ❤️ and Hugo"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/sdqri"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/sadiqrahmati/"
+
+[[params.social]]
+name = "medium"
+url = "https://medium.com/@sadiqrahmati"
+
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[markup]
+[markup.highlight]
+style = "algol"

@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Sadiq Rahmati</title><link>https://sadiqrahmati.com/posts/</link><description>Recent content in Posts on Sadiq Rahmati</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2026 12:00:00 +0330</lastBuildDate><atom:link href="https://sadiqrahmati.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>And now that you don't have to be perfect, you can be good</title><link>https://sadiqrahmati.com/posts/programming-and-what-comes-next/</link><pubDate>Thu, 30 Apr 2026 12:00:00 +0330</pubDate><guid>https://sadiqrahmati.com/posts/programming-and-what-comes-next/</guid><description>A subjective view of my career as a programmer and what comes next.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sadiq Rahmati</title>
+    <link>https://sadiqrahmati.com/posts/</link>
+    <description>Recent content in Posts on Sadiq Rahmati</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2026 12:00:00 +0330</lastBuildDate>
+    <atom:link href="https://sadiqrahmati.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>And now that you don&#39;t have to be perfect, you can be good</title>
+      <link>https://sadiqrahmati.com/posts/programming-and-what-comes-next/</link>
+      <pubDate>Thu, 30 Apr 2026 12:00:00 +0330</pubDate>
+      <guid>https://sadiqrahmati.com/posts/programming-and-what-comes-next/</guid>
+      <description>A subjective view of my career as a programmer and what comes next.</description>
+    </item>
+  </channel>
+</rss>

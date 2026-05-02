@@ -23,6 +23,15 @@ listDateFormat = "2 Jan 2006"
 showFooter = true
 footerContent = "© 2025 Sadiq Rahmati · Made with ❤️ and Hugo"
 
+[params.giscus]
+enable = true
+repo = "sdqri/sdqri.github.io"
+repoid = "R_kgDONHY4kg"
+category = "Announcements"
+categoryid = "DIC_kwDONHY4ks4C8K4W"
+mapping = "pathname"
+theme = "noborder_light"
+
 [[params.social]]
 name = "github"
 url = "https://github.com/sdqri"
